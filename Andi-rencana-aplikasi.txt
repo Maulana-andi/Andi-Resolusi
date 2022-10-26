@@ -4,3 +4,5 @@ RENCANA APLIKASI WEB
 - Javascript
 - Javascript Framework
 - Interview
+  * melakukan interview ke user
+  * ke sekolah, desa, kampus, lembaga pemerintahan
