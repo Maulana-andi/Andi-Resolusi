@@ -1,8 +1,9 @@
 RENCANA APLIKASI WEB
 
 - Membuat Flow chart
-- Javascript
 - Javascript Framework
+  * Nodejs
+  * Reactjs
 - Interview
   * melakukan interview ke user
   * ke sekolah, desa, kampus, lembaga pemerintahan
