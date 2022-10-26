@@ -4,6 +4,8 @@ RENCANA APLIKASI WEB
 - Javascript Framework
   * Nodejs
   * Reactjs
+- Code Editor
+  * Visual Studio Code
 - Interview
   * melakukan interview ke user
   * ke sekolah, desa, kampus, lembaga pemerintahan
