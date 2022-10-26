@@ -4,7 +4,7 @@ RENCANA APLIKASI WEB
 - Javascript Framework
   * Nodejs
   * Reactjs
-  * Laravel
+  * Veujs
 - Code Editor
   * Visual Studio Code
   * Sublime Text
